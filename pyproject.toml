@@ -7,6 +7,10 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+requests = "^2.31.0"
+urllib3 = "^2.1.0"
+beautifulsoup4 = "^4.12.2"
+certifi = "^2023.11.17"
 
 
 [build-system]
